@@ -1,0 +1,25 @@
+.rating {
+  display: flex;
+  margin: auto;
+  width: 60%;
+  max-width: 1000px;
+  margin-top: 20vh;
+  justify-content: space-around;
+}
+
+.rating > * {
+  font-size: 80px;
+
+}
+
+body {
+  background-color: steelblue;
+  color:rgb(248, 176, 52);
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  font-family: cursive;
+  text-decoration: underline;
+}
